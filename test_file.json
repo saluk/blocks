@@ -1,0 +1,23 @@
+[
+	{
+		"type": "function",
+		"name": "hello",
+		"arguments": [
+		],
+		"children": [
+			{
+				"type": "call",
+				"name": "print",
+				"arguments": [
+					"hello world"
+				]
+			}
+		]
+	},
+	{
+		"type": "call",
+		"name": "hello",
+		"arguments": [
+		]
+	}
+]
